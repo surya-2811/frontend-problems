@@ -16,6 +16,9 @@ Each problem has its own file inside the `problems/` folder with the following s
 | 1 | Maximum Subarray (Kadane's Algorithm) | [max-subarray.md](problems/max-subarray.md) |
 | 2 | Array Chunking | [array-chunking.md](problems/array-chunking.md) |
 | 3 | Find Maximum Number in Array | [find-max.md](problems/find-max.md) |
+| 4 | Sum | [sum.md](problems/sum.md) |
+| 5 | Power of Four | [power-of-four.md](problems/power-of-four.md) |
+| 6 | Valid Palindrome | [valid-palindrome.md](problems/valid-palindrome.md) |
 
 ---
 
