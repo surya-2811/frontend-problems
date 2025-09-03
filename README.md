@@ -19,6 +19,10 @@ Each problem has its own file inside the `problems/` folder with the following s
 | 4 | Sum | [sum.md](problems/sum.md) |
 | 5 | Power of Four | [power-of-four.md](problems/power-of-four.md) |
 | 6 | Valid Palindrome | [valid-palindrome.md](problems/valid-palindrome.md) |
+| 7 | Counter | [counter.md](problems/counter.md) |
+| 8 | Reverse Words | [reverse-words.md](problems/reverse-words.md) |
+| 9 | Custom Sort | [custom-sort.md](problems/custom-sort.md) |
+
 
 ---
 
