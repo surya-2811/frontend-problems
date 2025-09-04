@@ -22,6 +22,10 @@ Each problem has its own file inside the `problems/` folder with the following s
 | 7 | Counter | [counter.md](problems/counter.md) |
 | 8 | Reverse Words | [reverse-words.md](problems/reverse-words.md) |
 | 9 | Custom Sort | [custom-sort.md](problems/custom-sort.md) |
+| 10 | Fibonacci Series | [fibonacci-series.md](problems/fibonacci-series.md) |
+| 11 | Capatilize Words | [capatilize-words.md](problems/capatilize-words.md) |
+| 12 | Once | [once.md](problems/once.md) |
+
 
 
 ---
