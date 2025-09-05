@@ -25,6 +25,10 @@ Each problem has its own file inside the `problems/` folder with the following s
 | 10 | Fibonacci Series | [fibonacci-series.md](problems/fibonacci-series.md) |
 | 11 | Capatilize Words | [capatilize-words.md](problems/capatilize-words.md) |
 | 12 | Once | [once.md](problems/once.md) |
+| 13 | Flattern Nested Array | [flattern-nested-array.md](problems/flattern-nested-array.md) |
+| 14 | group By | [groupby.md](problems/groupby.md) |
+| 15 | Power of Two | [power-of-two.md](problems/power-of-two.md) |
+
 
 
 
