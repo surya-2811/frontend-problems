@@ -28,6 +28,10 @@ Each problem has its own file inside the `problems/` folder with the following s
 | 13 | Flattern Nested Array | [flattern-nested-array.md](problems/flattern-nested-array.md) |
 | 14 | group By | [groupby.md](problems/groupby.md) |
 | 15 | Power of Two | [power-of-two.md](problems/power-of-two.md) |
+| 16 | Anagram | [anagram.md](problems/anagram.md) |
+| 17 | Chunk Array | [chunk-array.md](problems/chunk-array.md) |
+| 18 | Missing Number | [missing-number.md](problems/missing-number.md) |
+
 
 
 
