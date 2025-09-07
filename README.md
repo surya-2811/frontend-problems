@@ -31,6 +31,10 @@ Each problem has its own file inside the `problems/` folder with the following s
 | 16 | Anagram | [anagram.md](problems/anagram.md) |
 | 17 | Chunk Array | [chunk-array.md](problems/chunk-array.md) |
 | 18 | Missing Number | [missing-number.md](problems/missing-number.md) |
+| 19 | Count Vowels | [count-vowels.md](problems/count-vowels.md) |
+| 20 | Power of Three | [power-of-three.md](problems/power-of-three.md) |
+| 21 | Form Largest Number | [formLargestNumber.md](problems/formLargestNumber.md) |
+
 
 
 
