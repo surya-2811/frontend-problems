@@ -34,6 +34,9 @@ Each problem has its own file inside the `problems/` folder with the following s
 | 19 | Count Vowels | [count-vowels.md](problems/count-vowels.md) |
 | 20 | Power of Three | [power-of-three.md](problems/power-of-three.md) |
 | 21 | Form Largest Number | [formLargestNumber.md](problems/formLargestNumber.md) |
+| 22 | Shuffle | [shuffle.md](problems/shuffle.md) |
+| 23 | Remove Duplicates | [removeDuplicates.md](problems/removeDuplicates.md) |
+| 24 | Get Result By Path | [getResultByPath.md](problems/getResultByPath.md) |
 
 
 
