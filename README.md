@@ -39,6 +39,8 @@ Each problem has its own file inside the `problems/` folder with the following s
 | 24 | Get Result By Path | [getResultByPath.md](problems/getResultByPath.md) |
 | 25 | Reduce Method Easy | [reduce-easy.md](problems/reduce-easy.md) |
 | 26 | Throttle | [throttle.md](problems/throttle.md) |
+| 27 | Debounce | [debounce.md](problems/debounce.md) |
+
 
 
 
