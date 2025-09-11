@@ -40,6 +40,10 @@ Each problem has its own file inside the `problems/` folder with the following s
 | 25 | Reduce Method Easy | [reduce-easy.md](problems/reduce-easy.md) |
 | 26 | Throttle | [throttle.md](problems/throttle.md) |
 | 27 | Debounce | [debounce.md](problems/debounce.md) |
+| 28 | List format | [format-list.md](problems/format-list.md) |
+| 29 | Sum of consecutive Integers | [isConsecutiveSum.md](problems/isConsecutiveSum.md) |
+| 30 | Reverse Words | [reversewords.md](problems/reversewords.md) |
+
 
 
 
