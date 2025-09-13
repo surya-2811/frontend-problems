@@ -45,6 +45,8 @@ Each problem has its own file inside the `problems/` folder with the following s
 | 30 | Reverse Words | [reversewords.md](problems/reversewords.md) |
 | 31 | Memoize | [memoize.md](problems/memoize.md) |
 | 32 | Merge Array | [merge-array.md](problems/merge-array.md) |
+| 33 | Reduce Method Intermediate | [reduce-intermediate.md](problems/reduce-intermediate.md) |
+
 
 
 
