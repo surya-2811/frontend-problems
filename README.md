@@ -47,7 +47,7 @@ Each problem has its own file inside the `problems/` folder with the following s
 | 32 | Merge Array | [merge-array.md](problems/merge-array.md) |
 | 33 | Reduce Method Intermediate | [reduce-intermediate.md](problems/reduce-intermediate.md) |
 | 34 | Sort By Frequency | [sort-frequency.md](problems/sort-frequency.md) |
-
+| 35 | Sort Easy | [sort-easy.md](problems/sort-easy.md) |
 
 
 
