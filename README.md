@@ -49,6 +49,8 @@ Each problem has its own file inside the `problems/` folder with the following s
 | 34 | Sort By Frequency | [sort-frequency.md](problems/sort-frequency.md) |
 | 35 | Sort Easy | [sort-easy.md](problems/sort-easy.md) |
 | 36 | Filter Method | [filter-method.md](problems/filter-method.md) |
+| 36 | 30 Days of Javascript Leetcode | [30_days_of_javascript_leetcode.md](problems/30_days_of_javascript_leetcode.md) |
+
 
 
 
