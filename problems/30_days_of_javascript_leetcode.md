@@ -343,5 +343,4 @@ console.log(onceFn(4, 6, 8)); // undefined
 
 ## 🏆 Goal
 
-Solve **30 Days of LeetCode JavaScript problems** to strengthen
-problem-solving skills
+Solve **30 Days of LeetCode JavaScript problems** to strengthen problem-solving skills
